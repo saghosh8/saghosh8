@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Core DevOps and Cloud Lead Engineer with ext
 - 🌟 **DevOps Specialist:** Expertise in CI/CD, container orchestration with Kubernetes and Docker, and infrastructure as code using Terraform.
 - 🏆 **Leadership:** Led a global DevOps team, managed end-to-end release processes, and directed Quarterly Business Reviews (QBR) for strategic planning and team productivity.
 - 🛠 **Automation Enthusiast:** Automated infrastructure provisioning, version control, and deployment workflows to enhance performance and reliability.
-- ☁️ **Cloud Engineer:** Engineered and managed cloud infrastructure on GCP, focusing on application security, vulnerability management, and cost optimization.
+- ☁️ **Cloud Engineer:** Engineered and managed cloud infrastructure on GCP, Mainly Focussing on CI-CD
 - 📈 **Project Manager:** Overseeing business risk and compliance, managing team performance, and ensuring adherence to a code of conduct.
 
 ## 🔧 Technical Skills
