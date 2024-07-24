@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a Core DevOps and Cloud Lead Engineer with ext
 
 ## 🔧 Technical Skills
 
-- **CI/CD:** TeamCity, Jenkins, GitHub Actions
+- **CI/CD:** TeamCity, Jenkins
 - **Containerization:** Docker
 - **Orchestration:** Helm, Kubernetes, OpenShift
 - **Cloud Platforms:** Google Cloud Platform (GCP)
@@ -25,8 +25,9 @@ Welcome to my GitHub profile! I'm a Core DevOps and Cloud Lead Engineer with ext
 
 ## 📫 Get in Touch
 
-- **Email:** [sahanaghosh8@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/ghoshsahana/]
+- **Email:** sahanaghosh8@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ghoshsahana/
+- **Website:** https://www.latesttechinsights.com/
 
 ---
 
