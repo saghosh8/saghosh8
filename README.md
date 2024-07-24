@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Sahana Ghosh]!
+# 👋 Hello, I'm Sahana Ghosh!
 
 Welcome to my GitHub profile! I'm a Core DevOps and Cloud Lead Engineer with extensive experience in CI/CD, Kubernetes, Helm, OpenShift, Docker, Bitbucket, and Google Cloud Platform. I have a proven track record of leading successful projects, optimizing deployment workflows, and ensuring secure and scalable configurations. 
 
