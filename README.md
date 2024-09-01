@@ -3,14 +3,6 @@
 Welcome to my GitHub profile! I'm a Core DevOps and Cloud Lead Engineer with extensive experience in CI/CD, Kubernetes, Helm, OpenShift, Docker, Bitbucket, and Google Cloud Platform. I have a proven track record of leading successful projects, optimizing deployment workflows, and ensuring secure and scalable configurations. 
 - **My Certificates:** [My Certificates](https://github.com/saghosh8/CERTIFICATES)
 
-## 🚀 About Me
-
-- 🌟 **DevOps Specialist:** Expertise in CI/CD, container orchestration with Kubernetes and Docker, and infrastructure as code using Terraform.
-- 🏆 **Leadership:** Led a global DevOps team, managed end-to-end release processes, and directed Quarterly Business Reviews (QBR) for strategic planning and team productivity.
-- 🛠 **Automation Enthusiast:** Automated infrastructure provisioning, version control, and deployment workflows to enhance performance and reliability.
-- ☁️ **Cloud Engineer:** Engineered and managed cloud infrastructure on GCP, Mainly Focussing on CI-CD
-- 📈 **Project Manager:** Overseeing business risk and compliance, managing team performance, and ensuring adherence to a code of conduct.
-
 ## 🔧 Technical Skills
 
 - **CI/CD:** TeamCity, Jenkins
