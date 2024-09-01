@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a Core DevOps and Cloud Lead Engineer with ext
 - **Infrastructure as Code:** Terraform, YAML
 - **Version Control:** Bitbucket, GitHub
 - **Monitoring & Alerting:** Splunk, AppDynamics
-- **Automation:** Ansible, Groovy, Yaml, Bash Scripting (Basic)
+- **Automation:** Ansible, Groovy, Yaml, Bash Scripting (Basic), SQL
 - **Serverless:** Cloud Functions, Cloud Run
 - **Event-Driven Communication:** Pub/Sub
 
