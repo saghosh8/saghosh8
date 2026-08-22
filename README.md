@@ -1,13 +1,29 @@
-# 👋 Hello, I'm Sahana Ghosh!
+# 👋 Hi, I'm Sahana Ghosh
 
-Welcome to my GitHub profile! I'm a Core DevOps and Cloud Lead Engineer with extensive experience in CI/CD, Kubernetes, Helm, OpenShift, Docker, Bitbucket, and Google Cloud Platform. I have a proven track record of leading successful projects, optimizing deployment workflows, and ensuring secure and scalable configurations. 
-- **My Certificates:** [My Certificates](https://github.com/saghosh8/CERTIFICATES)
+**DevOps & Cloud Engineering | CI/CD | Cloud Automation | AI-Assisted DevOps**
 
-## 📫 Get in Touch
+DevOps and Cloud Engineering professional with **11+ years of experience** across CI/CD modernization, cloud infrastructure, production operations, and automation.
 
-- **Email:** sahanaghosh8@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ghoshsahana/)
+Currently focused on **AI-assisted DevOps automation**, leveraging **Python, GitHub Actions, GCP, Kubernetes, and CI/CD technologies** to streamline complex deployment workflows, reduce manual effort, and improve engineering efficiency.
+
+### 🚀 Areas of Expertise
+
+* DevOps & CI/CD Automation
+* Cloud & Kubernetes
+* GitHub Actions & CI/CD Modernization
+* Python, Bash & Ansible Automation
+* AI-Assisted Engineering
+* Release & Deployment Automation
+* Production Operations & SRE
+
+### 📜 Certifications
+
+[View My Certifications](https://github.com/saghosh8/CERTIFICATES)
+
+### 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/ghoshsahana/)
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration opportunity 
+Thanks for visiting! Explore my repositories to see my work across **DevOps, Cloud, Automation, and AI-assisted engineering**.
