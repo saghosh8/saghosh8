@@ -2,7 +2,7 @@
 
 **DevOps & Cloud Engineering | CI/CD | Cloud Automation | AI-Assisted DevOps**
 
-DevOps and Cloud Engineering professional with **11+ years of experience** across CI/CD modernization, cloud infrastructure, production operations, and automation.
+DevOps and Cloud Engineering professional with **11+ years of experience** across DevOps, SRE, cloud infrastructure, CI/CD modernization, and production operations.
 
 Currently focused on **AI-assisted DevOps automation**, leveraging **Python, GitHub Actions, GCP, Kubernetes, and CI/CD technologies** to streamline complex deployment workflows, reduce manual effort, and improve engineering efficiency.
 
@@ -20,9 +20,10 @@ Currently focused on **AI-assisted DevOps automation**, leveraging **Python, Git
 
 [View My Certifications](https://github.com/saghosh8/CERTIFICATES)
 
-### 🔗 Connect
+## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/ghoshsahana/)
+* **Email:** [sahanaghosh8@gmail.com](mailto:sahanaghosh8@gmail.com)
+* **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ghoshsahana/)
 
 ---
 
