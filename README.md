@@ -14,8 +14,8 @@ DevOps & Cloud Engineering professional with **11+ years of experience**, specia
 [LinkedIn](https://www.linkedin.com/in/ghoshsahana/) · [GitHub](https://github.com/saghosh8) · [Email](mailto:sahanaghosh8@gmail.com)
 
 ---
-## 🚀 Featured Project — Release Automation
-### ⚙️ AI-Assisted Release Automation — End-to-End CI/CD Release Management
+# 🚀 Featured Project — Release Automation
+## ⚙️ AI-Assisted Release Automation — End-to-End CI/CD Release Management
 
 ## 📌 Project Overview
 
