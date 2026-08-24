@@ -172,7 +172,7 @@ Production
 
 | Resource                         | Link                                                                                                             |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 📦 Release Automation Repository | [YAML URL](https://github.com/saghosh8/release-automation)                                                       |
+| 📦 Release Automation Repository | [Repo Link](https://github.com/saghosh8/release-automation)                                                       |
 | 🔧 Create App Repository         | [YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/create-app-repos.yml)      |
 | 🌿 Release Branch Automation     | [YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/create-release-branch.yml) |
 | 🚀 Trigger CI Pipeline           | [YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/prod_ci.yml)               |
