@@ -4,22 +4,13 @@
 
 DevOps & Cloud Engineering professional with **11+ years of experience**, specializing in **CI/CD modernization, cloud automation, Kubernetes, and AI-assisted DevOps**. I build automation that turns complex, manual release processes into **repeatable GitHub Actions workflows**.
 
----
-
 ## 🧰 Technology
-
 `GitHub Actions` · `Python` · `YAML` · `JSON` · `Git` · `GCP` · `Kubernetes` · `Bash` · `Ansible` · `AI-Assisted Engineering`
 
----
-
 ## 📜 Certifications
-
 [View My Certifications →](https://github.com/saghosh8/CERTIFICATES)
 
----
-
 ## 🔗 Connect
-
 [LinkedIn](https://www.linkedin.com/in/ghoshsahana/) · [GitHub](https://github.com/saghosh8) · [Email](mailto:sahanaghosh8@gmail.com)
 
 ---
