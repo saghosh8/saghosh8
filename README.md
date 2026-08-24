@@ -25,35 +25,6 @@ The solution reduces repetitive manual release activities across multiple applic
 
 ---
 
-## 🔄 End-to-End Release Flow
-
-```mermaid
-flowchart TD
-    A[New Application Onboarding] --> B[Create Application Repository]
-    B --> C[Create Release Branches]
-
-    C --> D[Developer Feature Branch]
-    D --> E[Application CI]
-    E --> F[Dev CD / Testing]
-
-    F --> G[Merge Feature → Release Branch]
-    G --> H[Trigger Production CI]
-
-    H --> I[Generate Release Tag]
-    I --> J[Deploy to UAT]
-
-    J --> K[Create & Publish Release Notes]
-    K --> L[Compare Old Tag vs New Tag]
-
-    L --> M[Update prod-new-tag]
-    M --> N[Production Release Date]
-
-    N --> O[Trigger Production CD]
-    O --> P[Production Deployment]
-```
-
----
-
 ## ⚙️ Key Automations
 
 ### 1. Application Onboarding
