@@ -170,14 +170,15 @@ Production
 
 ## 🔗 Project Resources
 
-| Resource                         | Link               |
-| -------------------------------- | ------------------ |
-| 📦 Release Automation Repository | `[[YAML URL](https://github.com/saghosh8/release-automation)]`       |
-| 🔧 Create App Repository         | `[[YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/create-app-repos.yml)]`       |
-| 🌿 Release Branch Automation     | `[[YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/create-release-branch.yml)]`       |
-| 🚀 Trigger CI Pipeline           | `[[YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/prod_ci.yml)]`       |
-| 📝 Release Notes Automation      | `[[YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/publish-release-notes.yml)]`       |
-| 🚢 Production CD                 | `[[YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/prod_cd.yml)]`       |
+| Resource                         | Link                                                                                                             |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 📦 Release Automation Repository | [YAML URL](https://github.com/saghosh8/release-automation)                                                       |
+| 🔧 Create App Repository         | [YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/create-app-repos.yml)      |
+| 🌿 Release Branch Automation     | [YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/create-release-branch.yml) |
+| 🚀 Trigger CI Pipeline           | [YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/prod_ci.yml)               |
+| 📝 Release Notes Automation      | [YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/publish-release-notes.yml) |
+| 🚢 Production CD                 | [YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/prod_cd.yml)               |
+
 
 
 ---
