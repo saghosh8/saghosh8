@@ -122,12 +122,6 @@ Production
 
 ---
 
-## 🧩 Technology Stack
-
-`GitHub Actions` · `Python` · `YAML` · `Git` · `CI/CD` · `GCP` · `Kubernetes` · `Release Automation` · `AI-Assisted Engineering`
-
----
-
 ## 📈 Engineering Impact
 
 * Automated a multi-step release process spanning **multiple application repositories**.
