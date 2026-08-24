@@ -6,68 +6,6 @@ DevOps & Cloud Engineering professional with **11+ years of experience**, specia
 
 ---
 
-## 🚀 Featured Project — Release Automation
-
-### ⚙️ AI-Assisted Release Configuration Automation
-
-A GitHub Actions-based automation designed to simplify complex release preparation that previously required manually updating **10+ JSON/YAML configuration files**.
-
-The workflow takes a small set of inputs and automatically:
-
-```mermaid
-flowchart LR
-    A[User Inputs] --> B[GitHub Actions]
-    B --> C[Validation & Calculation]
-    C --> D[Update Configuration]
-    D --> E[Create Branch]
-    E --> F[Commit & Push]
-    F --> G[Create Pull Request]
-    G --> H[Release Ready]
-```
-
-### What it automates
-
-| Automation                      | Purpose                                                      |
-| ------------------------------- | ------------------------------------------------------------ |
-| 🔧 **Configuration Automation** | Dynamically updates service-specific JSON/YAML configuration |
-| 🧮 **Release Calculation**      | Applies deployment-specific calculations and parameters      |
-| 🌿 **Branch Automation**        | Creates and manages release branches automatically           |
-| 📦 **Commit & Push**            | Validates, commits and pushes generated changes              |
-| 🔀 **Pull Request Automation**  | Automatically creates a PR for review and deployment         |
-
-### Key Benefits
-
-* ⚡ Reduces repetitive release preparation
-* 🛠️ Eliminates manual updates across multiple configuration files
-* ✅ Reduces configuration errors
-* 🔄 Standardizes the release process
-* 📈 Improves release velocity and engineering productivity
-* 🤖 Uses AI-assisted development to accelerate automation delivery
-
----
-
-## 📂 Automation Examples
-
-Explore the individual GitHub Actions workflows and configuration examples:
-
-* [`release-automation.yml`](./.github/workflows/release-automation.yml) — Main release automation workflow
-* [`config-update.yml`](./.github/workflows/config-update.yml) — Automated configuration updates
-* [`branch-automation.yml`](./.github/workflows/branch-automation.yml) — Automated branch creation
-* [`pr-automation.yml`](./.github/workflows/pr-automation.yml) — Automated pull request creation
-* [`validation.yml`](./.github/workflows/validation.yml) — Configuration and workflow validation
-
-> These examples represent the automation patterns used in the project. Production implementation details may be simplified or anonymized.
-
-### 🔗 Project
-
-**Release Automation Repository:**
-[View Repository →](https://github.com/saghosh8/release-automation)
-
-**GitHub Actions Workflows:**
-[View Workflows →](https://github.com/saghosh8/release-automation/actions)
-
----
-
 ## 🧰 Technology
 
 `GitHub Actions` · `Python` · `YAML` · `JSON` · `Git` · `GCP` · `Kubernetes` · `Bash` · `Ansible` · `AI-Assisted Engineering`
@@ -85,5 +23,176 @@ Explore the individual GitHub Actions workflows and configuration examples:
 [LinkedIn](https://www.linkedin.com/in/ghoshsahana/) · [GitHub](https://github.com/saghosh8) · [Email](mailto:sahanaghosh8@gmail.com)
 
 ---
+## 🚀 Featured Project — Release Automation
+### ⚙️ AI-Assisted Release Automation — End-to-End CI/CD Release Management
+
+## 📌 Project Overview
+
+Designed and implemented an **end-to-end release automation framework using GitHub Actions and Python** to standardize application onboarding, release branch management, CI/CD execution, release tagging, UAT deployment, release notes, and production deployment.
+
+The solution reduces repetitive manual release activities across multiple application repositories while improving **release consistency, traceability, and deployment efficiency**.
+
+---
+
+## 🔄 End-to-End Release Flow
+
+```mermaid
+flowchart TD
+    A[New Application Onboarding] --> B[Create Application Repository]
+    B --> C[Create Release Branches]
+
+    C --> D[Developer Feature Branch]
+    D --> E[Application CI]
+    E --> F[Dev CD / Testing]
+
+    F --> G[Merge Feature → Release Branch]
+    G --> H[Trigger Production CI]
+
+    H --> I[Generate Release Tag]
+    I --> J[Deploy to UAT]
+
+    J --> K[Create & Publish Release Notes]
+    K --> L[Compare Old Tag vs New Tag]
+
+    L --> M[Update prod-new-tag]
+    M --> N[Production Release Date]
+
+    N --> O[Trigger Production CD]
+    O --> P[Production Deployment]
+```
+
+---
+
+## ⚙️ Key Automations
+
+### 1. Application Onboarding
+
+Automates creation and initial setup of application repositories required for the release process.
+
+**Workflow:**
+`Create App Repo → Initial Configuration → Application Ready`
+
+[View Onboarding Automation](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/create-app-repos.yml)
+
+---
+
+### 2. Release Branch Automation
+
+Creates release branches across all application repositories participating in a release.
+
+**Inputs:**
+
+* Release branch name
+* Application repository names
+
+**Workflow:**
+`Release Input → Identify Applications → Create Branch from main`
+
+[View Release Branch Automation](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/create-release-branch.yml)
+
+---
+
+### 3. Production CI & Release Tagging
+
+Triggers CI from the release branch for the selected application and generates the release tag required for deployment.
+
+**Inputs:**
+
+* Application name
+* Release branch
+
+**Workflow:**
+`Release Branch → Prod CI → Build → Release Tag`
+
+[View CI Trigger Automation](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/create-release-branch.yml)
+
+---
+
+### 4. Release Notes & Version Management
+
+Generates release information by comparing the newly generated release tag with the previous production tag.
+
+**Inputs:**
+
+* Release branch
+* Previous production tag (`prod-old-tag`)
+
+**Workflow:**
+
+```text
+Release Branch
+      ↓
+Generate Release Tag
+      ↓
+Compare Old Tag vs New Tag
+      ↓
+Generate Release Notes
+      ↓
+Update prod-new-tag
+```
+
+[View Release Notes Automation](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/publish-release-notes.yml)
+
+---
+
+### 5. Production Deployment
+
+Triggers the production CD pipeline using the release branch and the validated production tag stored in `prod-new-tag`.
+
+**Inputs:**
+
+* Release branch
+* Production release tag
+
+**Workflow:**
+
+```text
+prod-new-tag
+     ↓
+Production CD
+     ↓
+Deployment
+     ↓
+Production
+```
+
+[View Production CD Automation](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/prod_cd.yml)
+
+---
+
+## 🧩 Technology Stack
+
+`GitHub Actions` · `Python` · `YAML` · `Git` · `CI/CD` · `GCP` · `Kubernetes` · `Release Automation` · `AI-Assisted Engineering`
+
+---
+
+## 📈 Engineering Impact
+
+* Automated a multi-step release process spanning **multiple application repositories**.
+* Eliminated repetitive manual release branch and configuration activities.
+* Standardized CI, UAT and production release workflows.
+* Improved release traceability through **automated tagging and release notes**.
+* Reduced opportunities for manual configuration and deployment errors.
+* Enabled a **repeatable, parameter-driven release process** through GitHub Actions.
+
+---
+
+## 🔗 Project Resources
+
+| Resource                         | Link               |
+| -------------------------------- | ------------------ |
+| 📦 Release Automation Repository | `[[YAML URL](https://github.com/saghosh8/release-automation)]`       |
+| 🔧 Create App Repository         | `[[YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/create-app-repos.yml)]`       |
+| 🌿 Release Branch Automation     | `[[YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/create-release-branch.yml)]`       |
+| 🚀 Trigger CI Pipeline           | `[[YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/prod_ci.yml)]`       |
+| 📝 Release Notes Automation      | `[[YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/publish-release-notes.yml)]`       |
+| 🚢 Production CD                 | `[[YAML URL](https://github.com/saghosh8/release-automation/blob/main/.github/workflows/prod_cd.yml)]`       |
+
+
+---
+
+### 🎯 Key Takeaway
+
+**A parameter-driven GitHub Actions release framework that automates the journey from application onboarding to production deployment — with controlled branching, CI/CD, release tagging, UAT validation, release documentation, and production deployment.**
 
 ⭐ **Explore my repositories to see practical examples of DevOps, CI/CD, cloud automation and AI-assisted engineering.**
