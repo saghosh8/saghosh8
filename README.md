@@ -48,6 +48,8 @@ DevOps & Cloud Engineering professional with **11+ years of experience**, specia
 | 🚢 Production CD | <a href="https://github.com/saghosh8/release-automation/blob/main/.github/workflows/prod_cd.yml"><img src="https://img.shields.io/badge/YAML-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a> |
 | 🚢 Live Dashboard | <a href="https://github.com/saghosh8/release-automation/blob/main/.github/workflows/dashboard.yml"><img src="https://img.shields.io/badge/DASHBOARD-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a> |
 
+---
+
 ## ⭐ Support
 
 If you found this repository useful:
