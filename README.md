@@ -4,6 +4,8 @@
 
 DevOps & Cloud Engineering professional with **11+ years of experience**, specializing in **CI/CD modernization, cloud automation, Kubernetes, and AI-assisted DevOps**. I build automation that turns complex, manual release processes into **repeatable GitHub Actions workflows**.
 
+---
+
 ## 🧰 Technology
 
 **☁️ Cloud & Containers**
@@ -18,9 +20,13 @@ DevOps & Cloud Engineering professional with **11+ years of experience**, specia
 **🤝 Collaboration & Delivery**
 `Jira` · `Confluence` · `Release Management` · `Cross-functional Leadership`
 
+---
 
 ## 📜 Certifications
-[View My Certifications →](https://github.com/saghosh8/CERTIFICATES)
+
+<a href="https://github.com/saghosh8/CERTIFICATES"><img src="https://img.shields.io/badge/VIEW%20MY%20CERTIFICATIONS-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+---
 
 ## 🔗 Connect
 <a href="https://www.linkedin.com/in/ghoshsahana/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/saghosh8"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:sahanaghosh8@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
