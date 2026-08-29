@@ -5,7 +5,19 @@
 DevOps & Cloud Engineering professional with **11+ years of experience**, specializing in **CI/CD modernization, cloud automation, Kubernetes, and AI-assisted DevOps**. I build automation that turns complex, manual release processes into **repeatable GitHub Actions workflows**.
 
 ## 🧰 Technology
-`GitHub Actions` · `Python` · `YAML` · `JSON` · `Git` · `GCP` · `Kubernetes` · `Bash` · `Ansible` · `AI-Assisted Engineering`
+
+**☁️ Cloud & Containers**
+`GCP` · `GKE` · `Kubernetes` · `OpenShift` · `Docker`
+
+**🔄 CI/CD & Version Control**
+`GitHub Actions` · `Jenkins` · `TeamCity` · `Bitbucket` · `Git`
+
+**🤖 Automation & Engineering**
+`Python` · `Bash` · `Ansible` · `YAML` · `JSON` · `AI-Assisted Automation` · `AI-Assisted Engineering`
+
+**🤝 Collaboration & Delivery**
+`Jira` · `Confluence` · `Release Management` · `Cross-functional Leadership`
+
 
 ## 📜 Certifications
 [View My Certifications →](https://github.com/saghosh8/CERTIFICATES)
