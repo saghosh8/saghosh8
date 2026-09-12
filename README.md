@@ -1,59 +1,38 @@
-# 👋 Hi, I'm Sahana Ghosh
+# Hi, I'm Sahana 👋
 
-**DevOps & Cloud Engineer | CI/CD Automation | GitHub Actions | AI-Assisted Engineering**
+I build practical AI-powered solutions for DevOps.
 
-DevOps & Cloud Engineering professional with **11+ years of experience**, specializing in **CI/CD modernization, cloud automation, Kubernetes, and AI-assisted DevOps**. I build automation that turns complex, manual release processes into **repeatable GitHub Actions workflows**.
+My focus is on exploring how AI can solve real-world DevOps problems — from CI/CD and Kubernetes to automation, troubleshooting, release management, and developer workflows.
 
----
+### 🚀 What I'm Building
 
-## 🧰 Technology
+* 🤖 **AI for DevOps** — A hands-on journey covering LLMs, GenAI, RAG, Agents, MCP, LLMOps, and practical DevOps projects.
+* ⚙️ **AI DevOps Release Assistant** — An AI-powered DevOps assistant for real-world release and deployment workflows.
+* 🔄 **Release Automation** — Multi-repository GitHub release orchestration for automating branches, CI/CD, releases, and release visibility.
+* 🧠 **DevOps AI Agent Hub** — A growing collection of practical AI agents designed to solve real DevOps problems.
 
-**☁️ Cloud & Containers**
-`GCP` · `GKE` · `Kubernetes` · `OpenShift` · `Docker`
+### 🛠️ Areas I Work With
 
-**🔄 CI/CD & Version Control**
-`GitHub Actions` · `Jenkins` · `TeamCity` · `Bitbucket` · `Git`
+**DevOps:** CI/CD • GitHub Actions • Kubernetes • Docker • Terraform • Cloud • Release Automation • Observability
 
-**🤖 Automation & Engineering**
-`Python` · `Bash` · `Ansible` · `YAML` · `JSON` · `AI-Assisted Automation` · `AI-Assisted Engineering`
+**AI:** LLMs • GenAI • RAG • AI Agents • MCP • LLM APIs • LLMOps
 
-**🤝 Collaboration & Delivery**
-`Jira` · `Confluence` · `Release Management` · `Cross-functional Leadership`
+**Languages & Tools:** Python • YAML • Git • GitHub
 
----
+### 🌱 What I'm Exploring
 
-## 📜 Certifications
+I'm building practical projects to understand how AI can actually be used by DevOps engineers — not just learning the concepts, but putting them into real workflows.
 
-<a href="https://github.com/saghosh8/CERTIFICATES"><img src="https://img.shields.io/badge/VIEW%20MY%20CERTIFICATIONS-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a>
+The goal is simple:
 
----
+> **Find a real DevOps problem → build an AI solution → test it → share it openly.**
 
-## 🔗 Connect
-<a href="https://www.linkedin.com/in/ghoshsahana/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/saghosh8"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+Everything I build is open source and designed to be explored, run, and adapted.
 
+### 📚 Learn With Me
 
----
-## 🚀  AI-Assisted Project — Release Automation → 
-[Project Details →](https://github.com/saghosh8/release-automation/blob/main/README.md)
+🎥 **YouTube:** [TechWorld with Sahana](https://www.youtube.com/@TechWorldwithSahana)
 
-## 🔗 Project Resources
+💼 **LinkedIn:** [Sahana Ghosh](https://www.linkedin.com/in/ghoshsahana/)
 
-| Resource | Link |
-| -------- | ---- |
-| 📦 Release Automation Repository | <a href="https://github.com/saghosh8/release-automation"><img src="https://img.shields.io/badge/REPO-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a> |
-| 🔧 Create App Repository | <a href="https://github.com/saghosh8/release-automation/blob/main/.github/workflows/create-app-repos.yml"><img src="https://img.shields.io/badge/YAML-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a> |
-| 🌿 Release Branch Automation | <a href="https://github.com/saghosh8/release-automation/blob/main/.github/workflows/create-release-branch.yml"><img src="https://img.shields.io/badge/YAML-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a> |
-| 🚀 Trigger CI Pipeline | <a href="https://github.com/saghosh8/release-automation/blob/main/.github/workflows/prod_ci.yml"><img src="https://img.shields.io/badge/YAML-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a> |
-| 📝 Release Notes Automation | <a href="https://github.com/saghosh8/release-automation/blob/main/.github/workflows/publish-release-notes.yml"><img src="https://img.shields.io/badge/YAML-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a> |
-| 🚢 Production CD | <a href="https://github.com/saghosh8/release-automation/blob/main/.github/workflows/prod_cd.yml"><img src="https://img.shields.io/badge/YAML-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a> |
-| 🚢 Live Dashboard | <a href="https://github.com/saghosh8/release-automation/blob/main/.github/workflows/dashboard.yml"><img src="https://img.shields.io/badge/DASHBOARD-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a> |
-
----
-
-## ⭐ Support
-
-If you found this repository useful:
-
-<a href="https://github.com/saghosh8/release-automation">
-  <img src="https://img.shields.io/github/stars/saghosh8/release-automation?style=for-the-badge&logo=github&logoColor=white&label=STAR%20THIS%20REPO" />
-</a>
+📸 **Instagram:** [TechWorld with Sahana](https://www.instagram.com/techworldwithsahana)
