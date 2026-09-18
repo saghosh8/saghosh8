@@ -5,7 +5,7 @@ I build practical AI-powered solutions for DevOps.
 My focus is on exploring how AI can solve real-world DevOps problems — from CI/CD and Kubernetes to automation, troubleshooting, release management, and developer workflows.
 
 <a href="https://techworldwithsahana.substack.com/embed">
-  <img src="https://img.shields.io/badge/Subscribe%20to%20AI%2BDevOps%20Newsletter-12372A?style=for-the-badge&labelColor=F5EEDC" />
+  <img src="https://img.shields.io/badge/Subscribe%20AI%20x%20DevOps%20Newsletter-12372A?style=for-the-badge&labelColor=12372A" alt="Subscribe AI x DevOps Newsletter">
 </a>
 
 ### 🚀 What I'm Building
