@@ -1,37 +1,48 @@
 # Hi, I'm Sahana 👋
 
-I build practical AI-powered solutions for DevOps.
+<div align="center">
 
-My focus is on exploring how AI can solve real-world DevOps problems — from CI/CD and Kubernetes to automation, troubleshooting, release management, and developer workflows.
+# 🚀 AI For DevOps — 21-Day Hands-on eBook
 
-<a href="https://techworldwithsahana.substack.com/embed">
-  <img src="https://img.shields.io/badge/Subscribe%20AI%20x%20DevOps%20Newsletter-12372A?style=for-the-badge&labelColor=12372A" alt="Subscribe AI x DevOps Newsletter">
-</a>
+**Become an AI-Ready DevOps Engineer with Production Projects in Just 21 Days**
 
-### 🚀 What I'm Building
+<table align="center" border="0" style="border-collapse: collapse; max-width: 650px;">
+  <tr>
+    <td align="center" style="padding: 6px;">
+      <a href="https://topmate.io/sahana_ghosh/2314836">
+        <img src="images/AI%20for%20DevOps%20-%20promo.png" alt="AI for DevOps Promo" width="300">
+      </a>
+    </td>
+    <td align="center" style="padding: 6px;">
+      <a href="https://topmate.io/sahana_ghosh/2314836">
+        <img src="images/weekly.png" alt="Weekly Breakdown" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 6px;">
+      <a href="https://topmate.io/sahana_ghosh/2314836">
+        <img src="images/interview.png" alt="Interview Questions and Visuals" width="300">
+      </a>
+    </td>
+    <td align="center" style="padding: 6px;">
+      <a href="https://topmate.io/sahana_ghosh/2314836">
+        <img src="images/projects.png" alt="3 Real Project Builds" width="300">
+      </a>
+    </td>
+  </tr>
+</table>
 
-* 🤖 **AI for DevOps** — A hands-on journey covering LLMs, GenAI, RAG, Agents, MCP, LLMOps, and practical DevOps projects.
-* ⚙️ **AI DevOps Release Assistant** — An AI-powered DevOps assistant for real-world release and deployment workflows.
-* 🔄 **Release Automation** — Multi-repository GitHub release orchestration for automating branches, CI/CD, releases, and release visibility.
-* 🧠 **DevOps AI Agent Hub** — A growing collection of practical AI agents designed to solve real DevOps problems.
+<p align="center">
+  <a href="https://topmate.io/sahana_ghosh/2314836">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20eBook%20NOW-007ACC?style=for-the-badge&logoColor=white&labelColor=007ACC" alt="Buy Now" height="38">
+  </a>
+</p>
 
-### 🛠️ Areas I Work With
+> 🎁 **Special Launch Offer:** Use coupon code **`FIRST25`** at checkout for a surprise discount *(Limited to the first 25 buyers only!)*
 
-**DevOps:** CI/CD • GitHub Actions • Kubernetes • Docker • Terraform • Cloud • Release Automation • Observability
+</div>
 
-**AI:** LLMs • GenAI • RAG • AI Agents • MCP • LLM APIs • LLMOps
-
-**Languages & Tools:** Python • YAML • Git • GitHub
-
-### 🌱 What I'm Exploring
-
-I'm building practical projects to understand how AI can actually be used by DevOps engineers — not just learning the concepts, but putting them into real workflows.
-
-The goal is simple:
-
-> **Find a real DevOps problem → build an AI solution → test it → share it openly.**
-
-Everything I build is open source and designed to be explored, run, and adapted.
 
 ### 📚 Learn With Me
 
