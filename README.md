@@ -10,24 +10,24 @@
   <tr>
     <td align="center" style="padding: 6px;">
       <a href="https://topmate.io/sahana_ghosh/2314836">
-        <img src="images/AI%20for%20DevOps%20-%20promo.png" alt="AI for DevOps Promo" width="300">
+        <img src=".images/AI%20for%20DevOps%20-%20promo.png" alt="AI for DevOps Promo" width="300">
       </a>
     </td>
     <td align="center" style="padding: 6px;">
       <a href="https://topmate.io/sahana_ghosh/2314836">
-        <img src="images/weekly.png" alt="Weekly Breakdown" width="300">
+        <img src=".images/weekly.png" alt="Weekly Breakdown" width="300">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 6px;">
       <a href="https://topmate.io/sahana_ghosh/2314836">
-        <img src="images/interview.png" alt="Interview Questions and Visuals" width="300">
+        <img src=".images/interview.png" alt="Interview Questions and Visuals" width="300">
       </a>
     </td>
     <td align="center" style="padding: 6px;">
       <a href="https://topmate.io/sahana_ghosh/2314836">
-        <img src="images/projects.png" alt="3 Real Project Builds" width="300">
+        <img src=".images/projects.png" alt="3 Real Project Builds" width="300">
       </a>
     </td>
   </tr>
